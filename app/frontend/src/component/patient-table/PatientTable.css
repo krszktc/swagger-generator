@@ -1,0 +1,19 @@
+.table-header-container {
+    position: relative;
+    margin-right: 17px;
+    margin-bottom: -18px;
+}
+
+.table-header-container thead {
+    background-color: aquamarine;
+}
+
+.table-body-container {
+    position: relative;
+    height: 492px;
+    overflow-y: scroll;
+}
+
+tbody td {
+    cursor: default;
+}
